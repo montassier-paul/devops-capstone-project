@@ -1,5 +1,5 @@
 ---
-name: ISSUE TEMPLATES
+name: ISSUE TEMPLATE
 about: describe your issue
 title: ''
 labels: ''
